@@ -1,0 +1,14 @@
+
+openai
+langchain
+langchain-community
+gradio
+matplotlib
+transformers
+torch
+graphviz
+networkx
+scikit-learn
+beautifulsoup4
+reportlab
+fpdf2
